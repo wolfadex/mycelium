@@ -1,0 +1,9 @@
+.stack-work/
+*~
+
+elm-stuff
+
+.DS_Store
+
+src/static
+src/public
